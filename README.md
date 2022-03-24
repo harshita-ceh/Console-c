@@ -1,12 +1,18 @@
 # console Based c++ 
 
 
-controls for bob-
+controls for bob
+
 -> - right 
+
 <- - left
+
 ↑ - jump
 
-Contols for Thomsa-
+Contols for Thomsa
+
 A - left
+
 D - right
+
 W - Jump
